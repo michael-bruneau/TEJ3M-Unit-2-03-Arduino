@@ -10,18 +10,18 @@
 
 // variables
 int blinkDelay = 1000;
-int pin5 = 5;
+const int PIN_5 = 5;
 
 void setup()
 {
-  pinMode(pin5, OUTPUT);
+  pinMode(PIN_5, OUTPUT);
 }
 
 void loop()
 {
-  digitalWrite(pin5, HIGH);
+  digitalWrite(PIN_5, HIGH);
   delay(blinkDelay); // Wait for 1000 millisecond(s)
   
-  digitalWrite(pin5, LOW);
+  digitalWrite(PIN_5, LOW);
   delay(blinkDelay); // Wait for 1000 millisecond(s)
 }
