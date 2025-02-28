@@ -37,6 +37,9 @@
                 <mxCell id="8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Michael Bruneau&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Feb 2025&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Single LED flashes&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="80" y="260" width="160" height="70" as="geometry"/>
                 </mxCell>
+                <mxCell id="9" value="220&amp;nbsp;Ω" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="298" width="60" height="30" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
